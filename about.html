@@ -1,14 +1,12 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="website_style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script type="text/javascript">
 function scrollto(div)
 {
-
-$('html,body').animate(
-{
-scrollTop: $("#"+div).offset().top
-},'slow');
+$('html, body').animate({
+    scrollTop: $("#"+div).offset().top,'slow');
 }
 </script>
 </head>
@@ -47,9 +45,6 @@ scrollTop: $("#"+div).offset().top
 
 <div id="contact">
 <h1>You can connect with me via email <br>vahinnaik@gmail.com <br></h1>
-<input type="text" placeholder="Name">
-<textarea placeholder="Message"></textarea>
-<input type="submit" value="SEND">
 </div>
 
 </body>

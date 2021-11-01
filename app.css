@@ -146,7 +146,16 @@ table, th,td  {
         text-align: left;
         font-weight: bold;
     }
-
+.td-content a.hlink2{
+    color:yellowgreen;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 14px 16px;
+    font-family:"Montserrat",sans-serif;
+    text-decoration: underline;
+    text-align: left;
+    font-weight: bold;
+}
 mark.yellow {
         color:yellow;
         background: none;

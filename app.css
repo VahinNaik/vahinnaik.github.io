@@ -120,10 +120,27 @@ table, th,td  {
     width: 80%;
   }
 
+th{
+    font-family: "Montserrat",sans-serif;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+    text-align:justify;
+    line-break: normal;
+    word-wrap: normal;
+    line-height: 25px;
+    letter-spacing: 2px;
+}
+
 .td-cellImg{
 	width:auto;
 }
 
+img{
+	width:600;
+    height: 400;
+}
 .td-content{
     font-family: "Montserrat",sans-serif;
     height: auto;

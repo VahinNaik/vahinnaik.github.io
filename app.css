@@ -182,4 +182,34 @@ mark.slategray{
         color:lightslategray;
         background: none;
         font-weight: bold;
-    }    
+    }
+mark.bold{
+    color: burlywood;
+    font-weight: bold;
+    background: none;
+}    
+    
+
+.quote{
+    color:yellow;
+    background: none;
+    font-family: Montserrat, "Helvetica Neue",verdana;
+    font-size: 16px;
+    letter-spacing: 0.046875em;
+    line-height: 1.1325;
+
+    font-weight: bold;
+    font-style: italic;
+    padding-left: 115px;
+}
+
+.quote-author{
+    color:white;
+    background: none;
+    font-family: Montserrat, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.046875em;
+    line-height: 1.1325;
+    font-weight: bold;
+    font-style: normal;
+}

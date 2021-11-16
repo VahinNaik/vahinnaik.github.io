@@ -111,6 +111,12 @@ nav{
     padding-left: 100px;	
 }
 
+.APimage{
+	position:relative;
+	width: 1107px;
+	height: 400px;;
+    padding-left: 100px;	
+}
 table, th,td  {
     border: 0px solid rgba(0, 0, 0, 0.938);
     position:relative;
